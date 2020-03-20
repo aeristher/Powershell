@@ -1,0 +1,16 @@
+1.	\w+
+2.	(\w+\s?){1,2}?("|=\s)?123(xyz|"|;)
+3.	(\w+|\D+)\.
+4.	[cmf]an
+5.	[hd]og
+6.	[A-Z]\w+
+7.	waz{2}\w+
+8.	a\w+
+9.	\d\d?\s\w+\s\w+\?
+10.	\d\.\s+abc
+11.	^Mission: successful
+12.	^(file_\w+).pdf
+13.	^((\w+\s(\d+)))
+14.	((\d+)\w(\d+))
+15.	I love (cats|dogs)
+16.	.*
